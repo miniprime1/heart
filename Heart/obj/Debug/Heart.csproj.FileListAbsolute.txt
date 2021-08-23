@@ -1,0 +1,15 @@
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\MainWindow.g.cs
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\App.g.cs
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart_MarkupCompile.cache
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart_MarkupCompile.lref
+C:\Users\남규민\source\repos\Heart\Heart\bin\Debug\Heart.exe.config
+C:\Users\남규민\source\repos\Heart\Heart\bin\Debug\Heart.exe
+C:\Users\남규민\source\repos\Heart\Heart\bin\Debug\Heart.pdb
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\MainWindow.baml
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.g.resources
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.Properties.Resources.resources
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.csproj.GenerateResource.cache
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.csproj.CoreCompileInputs.cache
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.exe
+C:\Users\남규민\source\repos\Heart\Heart\obj\Debug\Heart.pdb
+C:\Users\남규민\source\repos\heart\Heart\obj\Debug\Heart.csproj.AssemblyReference.cache
